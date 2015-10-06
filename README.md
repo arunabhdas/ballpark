@@ -3,6 +3,11 @@ BallPark
 
 BallPark is a simple ball game implemented in Swift. Play by swiping up and down on the screen.
 
+Building
+========
+
+Build using Xcode 7 or higher
+
 Screenshots
 ===========
 
